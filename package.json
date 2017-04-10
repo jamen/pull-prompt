@@ -28,6 +28,7 @@
   "keywords": [
     "jamen",
     "pull-prompt",
+    "pull-stream",
     "cli",
     "prompt",
     "prompter",
